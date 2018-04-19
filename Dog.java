@@ -6,7 +6,7 @@ class Dog {
 		this.age = age;
 	}
 	Dog() {
-		this.name = "poop";
+		this.name = "luna";
 		this.age = 13;
 	}
 	void addNumToAge() {
