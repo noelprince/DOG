@@ -8,8 +8,11 @@ class Dog {
 	Dog() {
 		this.name = "poop";
 		this.age = 13;
+	}
+	void addNumToAge() {
+		this.age = this.age + 1;
+	}
 
->>>>>>> random
 };
 
 
