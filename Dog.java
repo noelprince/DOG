@@ -4,6 +4,11 @@ class Dog {
 	Dog(String name, int age) {
 		this.name = name;
 		this.age = age;
+	}
+	Dog() {
+		this.name = "poop";
+		this.age = 13;
+
 };
 
 
