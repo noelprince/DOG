@@ -1,3 +1,8 @@
 class Dog {
-	int bark;
+	String name;
+
+	Dog(String name) {
+		this.name = name;
 };
+
+
