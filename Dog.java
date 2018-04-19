@@ -3,7 +3,7 @@ class Dog {
 	int age;
 	Dog(String name, int age) {
 		this.name = name;
-		this.age = age;
+		this.age = as;
 	}
 	Dog() {
 		this.name = "poop";
